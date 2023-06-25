@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { useSyncedStore } from "@syncedstore/react";
 import * as Y from 'yjs'
 
 export default function App() {
